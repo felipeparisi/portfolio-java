@@ -14,7 +14,10 @@ Felipe Parisi
 
 #### Capituras de tela:
 
-![tela](https://github.com/felipeparisi/portfolio-java/blob/main/img/Tela.PNG)
+![tela](https://github.com/felipeparisi/portfolio-java/blob/main/img/Capturar.PNG)
+![tela](https://github.com/felipeparisi/portfolio-java/blob/main/img/jokenpo.PNG)
+![tela](https://github.com/felipeparisi/portfolio-java/blob/main/img/senha.PNG)
+![tela](https://github.com/felipeparisi/portfolio-java/blob/main/img/media.PNG)
 
 #### Demonstração Do projeto:
 (Instruções para Instalação)
